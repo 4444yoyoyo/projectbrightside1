@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About | Project Brightside</title>
+  <link href="https://fonts.googleapis.com/css2?family=Rubik+Moonrocks&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(to bottom right, #fff5cc, #ffd6e0, #d0f0fd);
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+    header, nav, .content {
+      text-align: center;
+      padding: 2rem;
+    }
+    header h1 {
+      font-family: 'Rubik Moonrocks', cursive;
+      font-size: 2.5rem;
+      color: #222;
+    }
+    nav {
+      background: #ffffffcc;
+      padding: 1rem;
+    }
+    nav a {
+      margin: 0 1rem;
+      color: #ff8fab;
+      font-weight: bold;
+      text-decoration: none;
+    }
+    .content {
+      padding: 3rem 1rem;
+      max-width: 700px;
+      margin: 0 auto;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>About Project Brightside</h1>
+  </header>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="get-involved.html">Get Involved</a>
+    <a href="blog.html">Blog</a>
+    <a href="newsletter.html">Newsletter</a>
+    <a href="team.html">Team</a>
+  </nav>
+  <div class="content">
+    <p>Project Brightside was founded to connect hospitalized youth and isolated elders with student volunteers through creative care and emotional connection. Our mission is to create meaningful moments of light through storytelling, conversation, and acts of kindness — bridging generations and building community resilience through empathy and youth-driven impact.</p>
+  </div>
+</body>
+</html>
